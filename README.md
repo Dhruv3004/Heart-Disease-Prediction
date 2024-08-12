@@ -1,3 +1,5 @@
+![logo](https://github.com/Dhruv3004/Heart-Disease-Prediction/blob/main/1_CQXQxHDKi0Q2IpdjhufEcw.jpg?raw=true)
+
 ## Heart Disease Prediction
 This project aims to predict the presence of heart disease in patients using a variety of clinical and demographic features. The dataset includes various attributes collected from patients, which are used to train and evaluate a machine learning model.
 
